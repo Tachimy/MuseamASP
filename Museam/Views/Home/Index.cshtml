@@ -1,0 +1,81 @@
+﻿@{
+    ViewData["Title"] = "Главная страница";
+}
+
+<h1 class="page-title">Музей Партизанской Славы</h1>
+
+<section class="intro">
+    <p>Добро пожаловать в Музей партизанов, где вы сможете узнать о подвигах и жизни тех, кто сражался за свободу в тяжелые времена. Мы собираем артефакты, рассказы очевидцев и многое другое, чтобы сохранить память для будущих поколений.</p>
+</section>
+
+<section class="slider-section">
+    <div class="slider-container">
+        <div class="slider-wrapper">
+            <!-- Слайды -->
+            <div class="slide active">
+                <img src="~/images/slider/slide1.jpg" alt="Слайд 1">
+            </div>
+            <div class="slide">
+                <img src="~/images/slider/slide2.jpg" alt="Слайд 2">
+            </div>
+            <div class="slide">
+                <img src="~/images/slider/slide3.jpg" alt="Слайд 3">
+            </div>
+            <div class="slide">
+                <img src="~/images/slider/slide4.jpg" alt="Слайд 3">
+            </div>
+        </div>
+        <!-- Кнопки управления -->
+        <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
+        <button class="next" onclick="moveSlide(1)">&#10095;</button>
+    </div>
+    <!-- Навигационные точки -->
+    <div class="dots-container">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
+    </div>
+</section>
+
+
+<section class="hero-video-section">
+    <h2>Наш герой партизан — Марат Иванович Казей</h2>
+    <div class="content-wrapper">
+        <div class="gallery-item">
+            <img src="~/images/person/marat.jpg" alt="Марат Казей" />
+            <p class="hero-name">Марат Иванович Казей</p>
+            <div class="hero-description">
+                <p><b>В марте 1943 года</b> Марат фактически спас партизанский отряд. Когда каратели взяли партизан «в клещи» у деревни Румок, именно разведчику Казею удалось прорваться сквозь «кольцо» противника и привести на помощь партизанский отряд им. Д. А. Фурманова, который находился в семи километрах от окружённых партизан. Марату Казею за проявленный героизм в борьбе с оккупантами было присвоено звание <b>Героя Советского Союза, посмертно.</b></p>
+            </div>
+        </div>
+
+        <div class="video-container">
+            <div class="video-wrapper">
+                <iframe width="853" height="480" src="https://www.youtube.com/embed/zV2PNpe4pqE" title="Память юного пионера героя Марата Казея ( автор: Лихунов Никита Андреевич)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section class="infographic">
+    <h2>В нашем музее</h2>
+    <div class="infographic-grid">
+        <div class="infographic-item">
+            <h3>350+</h3>
+            <p>партизан</p>
+        </div>
+        <div class="infographic-item">
+            <h3>200+</h3>
+            <p>Экспонатов</p>
+        </div>
+        <div class="infographic-item">
+            <h3>50+</h3>
+            <p>наградных листков</p>
+        </div>
+     </div>
+</section>

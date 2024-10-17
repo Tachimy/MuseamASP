@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <script src="~/js/site.js"></script>
+    <link rel="icon" href="~/images/redstar.png" type="image/png">
+</head>
+<body>
+    <header>
+        <span class="logo">
+            <img src="@Url.Content("~/images/logo.png")" alt="Логотип" />
+            Музей боевой славы партизанского отряда имени 25-летия октября
+        </span>
+        <nav>
+            <a href="/">Главная</a>
+@*             <a href="/Home/Defence">Сражения</a> *@
+            <a href="/Home/Heroes">Герои партизаны</a>
+        </nav>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+    <footer>
+        <div class="footer-content">
+            <p>Все права защищены.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
