@@ -13,12 +13,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\images\\icons\\github-sign.png",
+      "PackagePath": "staticwebassets\\images\\icons\\github-sign.png"
+    },
+    {
+      "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\images\\icons\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\icons\\instagram.png"
+    },
+    {
       "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
+      "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\images\\person\\komand.jpg",
+      "PackagePath": "staticwebassets\\images\\person\\komand.jpg"
+    },
+    {
       "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\images\\person\\marat.jpg",
       "PackagePath": "staticwebassets\\images\\person\\marat.jpg"
+    },
+    {
+      "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\images\\red_orden.png",
+      "PackagePath": "staticwebassets\\images\\red_orden.png"
     },
     {
       "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\images\\redstar.png",
@@ -41,12 +57,12 @@
       "PackagePath": "staticwebassets\\images\\slider\\slide4.jpg"
     },
     {
-      "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\images\\swords.png",
-      "PackagePath": "staticwebassets\\images\\swords.png"
+      "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\images\\slider\\slide5.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slide5.jpg"
     },
     {
-      "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\images\\test-photo.jpg",
-      "PackagePath": "staticwebassets\\images\\test-photo.jpg"
+      "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\images\\swords.png",
+      "PackagePath": "staticwebassets\\images\\swords.png"
     },
     {
       "Id": "E:\\VS22 проекты\\Museam\\Museam\\wwwroot\\js\\site.js",

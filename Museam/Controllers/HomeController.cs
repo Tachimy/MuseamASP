@@ -18,10 +18,10 @@ namespace Museam.Controllers
             return View();
         }
 
-        //public IActionResult Defence()
-        //{
-        //    return View();
-        //}
+        public IActionResult About()
+        {
+            return View();
+        }
 
         public IActionResult Heroes()
         {

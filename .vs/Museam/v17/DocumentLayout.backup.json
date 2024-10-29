@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\views\\home\\defence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\views\\home\\defence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\views\\home\\heroes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\views\\home\\heroes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\views\\home\\heroes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\views\\home\\heroes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|e:\\vs22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\museam\\museam\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{234515D7-1A0B-4319-955A-A90DB8761694}|Museam\\Museam.csproj|solutionrelative:museam\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,94 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "site.js",
-              "DocumentMoniker": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "Museam\\wwwroot\\js\\site.js",
-              "ToolTip": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "Museam\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-14T19:08:25.865Z"
+              "Title": "About.cshtml",
+              "DocumentMoniker": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Museam\\Views\\Home\\About.cshtml",
+              "ToolTip": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Museam\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T10:22:13.215Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Program.cs",
+              "RelativeDocumentMoniker": "Museam\\Program.cs",
+              "ToolTip": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Program.cs",
+              "RelativeToolTip": "Museam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:37:09.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Heroes.cshtml",
               "DocumentMoniker": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Views\\Home\\Heroes.cshtml",
               "RelativeDocumentMoniker": "Museam\\Views\\Home\\Heroes.cshtml",
               "ToolTip": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Views\\Home\\Heroes.cshtml",
               "RelativeToolTip": "Museam\\Views\\Home\\Heroes.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwFsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAkwJYAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-11T18:37:23.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Defence.cshtml",
-              "DocumentMoniker": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Views\\Home\\Defence.cshtml",
-              "RelativeDocumentMoniker": "Museam\\Views\\Home\\Defence.cshtml",
-              "ToolTip": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Views\\Home\\Defence.cshtml",
-              "RelativeToolTip": "Museam\\Views\\Home\\Defence.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T18:32:32.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Museam\\wwwroot\\css\\site.css",
               "ToolTip": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Museam\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAOcAAAAAAAAAAAAAABMBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcCAAAAAAAAAAAAAGYCAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-09T10:31:28.877Z"
+              "WhenOpened": "2024-10-09T10:31:28.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Museam\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Museam\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T10:29:25.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Museam\\Views\\Home\\Index.cshtml",
               "ToolTip": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Museam\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-09T10:28:43.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Museam\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\VS22 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\Museam\\Museam\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Museam\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-08T19:06:26.447Z",
               "EditorCaption": ""
